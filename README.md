@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi, I'm Shivam 👋
 
-<!--
-**shivam-prajapat/shivam-prajapat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech CSE (AI & ML) student who enjoys building practical software and intelligent systems that solve real-world problems.
 
-Here are some ideas to get you started:
+### 💻 What I work on
+- AI & Machine Learning projects
+- Full-stack and backend development
+- Data-driven applications
+- Clean, scalable system design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- **CortexCare** – An AI-powered emotional support system focused on ethical, safe, and empathetic interactions  
+- **Multiple Disease Prediction System** – A machine learning application for predicting diseases using medical data
+
+### 🛠 Tech Stack
+- Python, C, C++, SQL  
+- FastAPI, Streamlit  
+- Machine Learning, Data Analysis  
+- Git & GitHub
+
+### 🌱 Currently learning
+- Advanced Machine Learning
+- Data Structure & Algorithm
+- Web devlopment
+
+### 📫 Connect with me
+- Email: shivamkumar2005419@gmail.com
+- GitHub: https://github.com/shivam-prajapat  
+- LinkedIn: https://linkedin.com/in/shivam-kumar-475686294/
+
+---
