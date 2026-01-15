@@ -15,7 +15,7 @@ I'm a B.Tech CSE (AI & ML) student who enjoys building practical software and in
 ### 🛠 Tech Stack
 - Python, C, C++, SQL  
 - FastAPI, Streamlit  
-- Machine Learning, Data Analysis  
+- LLM, Langchain, Gen AI, Agentic AI  
 - Git & GitHub
 
 ### 🌱 Currently learning
