@@ -4,7 +4,7 @@ I'm a B.Tech CSE (AI & ML) student who enjoys building practical software and in
 
 ### 💻 What I work on
 - AI & Machine Learning projects
-- Full-stack and backend development
+- Full-stack development
 - Data-driven applications
 - Clean, scalable system design
 
